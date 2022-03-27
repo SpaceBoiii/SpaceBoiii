@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SpaceBoiii
 - 👀 I’m interested in rockets and coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on games and other projectss
+- 💞️ I’m looking to collaborate on games and other projects
+- You can find me on replit: @Cosmickarma
 - 📫 How to reach me: davmakers@gmail.com
 
 <!---
