@@ -1,5 +1,5 @@
 <h1 align="center">Ello! I'm SpaceBoiii</h1>
-<h3 align="center">A space dreamer for 12 years and counting!</h3><br>
+<h3 align="center">A master human for 12 years and counting!</h3><br>
 <h2>About me</h2>
 <p align="left"> 
 
