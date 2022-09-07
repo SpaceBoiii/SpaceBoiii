@@ -13,7 +13,7 @@
   
 - 📫 How to reach me: davmakers@gmail.com
   
-<img src="https://img.shields.io/badge/Knows-Python-blue/?logo=python&logoColor=yellow&color=blue&style=for-the-badge" alt="python">
+ <img src="https://img.shields.io/badge/Knows-Python-blue/?logo=python&logoColor=yellow&color=blue&style=for-the-badge" alt="python">           <img src="https://img.shields.io/badge/Learning-Java-blue/?logo=javascript&logoColor=green&color=blue&style=for-the-badge" alt="java">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpaceBoiii&theme=solarized_dark)
 <!---
