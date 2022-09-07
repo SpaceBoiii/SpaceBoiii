@@ -1,11 +1,11 @@
 <h1 align="center">Ello! I'm SpaceBoiii</h1>
-<h3 align="center">A master human for 26 years and counting!</h3><br>
+<h3 align="center">A master human... unless he's coding in Java!</h3><br>
 <h2>About me</h2>
 <p align="left"> 
 
-  - 👀 I’m interested in rockets and coding
+- 👀 I’m interested in rockets and coding
   
-- 🌱 I’m currently working on using Python
+- 🌱 I’m currently learning Java
   
 - 💞️ I’m looking to collaborate on games and other projects
   
