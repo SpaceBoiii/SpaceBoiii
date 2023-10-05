@@ -15,7 +15,6 @@
   
  <img src="https://img.shields.io/badge/Knows-Python-blue/?logo=python&logoColor=yellow&color=blue&style=for-the-badge" alt="python">           <img src="https://img.shields.io/badge/Learning-Java-blue/?logo=javascript&logoColor=green&color=blue&style=for-the-badge" alt="java">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpaceBoiii&theme=solarized_dark)
 <!---
 SpaceBoiii/SpaceBoiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
